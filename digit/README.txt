@@ -33,7 +33,8 @@ solutions are not displayed; only an indication of correct/incorrect for
 each equation is displayed.
 
 Also, the layout in the various application states is not ideal, as a function 
-of the HTML5 game framework I used.
+of the HTML5 game framework I used.  And, there is a small bug when returning
+to a new game via "Play Again", which I haven't yet resolved.
 
 Bonus -> Dragging/dropping the digits plays a sound, and an appropriate sound is 
 played for correct and incorrect answers when all digits have been placed.
