@@ -1,0 +1,24 @@
+#cr-stage > div {
+	position: relative !important;
+	height: 100%;
+}
+
+div.digitBoxDiv {
+	
+}
+
+div.digitBox {
+/*	margin-left:auto;
+	margin-right:auto;*/
+	background-color:rgb(20, 125, 240);
+	border:1px solid #000;
+	padding:3px;
+/*	float:left;*/
+	position:absolute;
+	display: inline-block !important;
+	transition: background-color 1s;
+	
+}
+div.digitBoxHover {
+	background-color:#7efafe;	
+}
